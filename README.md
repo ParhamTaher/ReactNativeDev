@@ -1,3 +1,3 @@
 # ReactNativeDev
 
-My Journey through learning React Native along side regular react in order to develop on web and mobile platforms.
+My Journey through learning React Native along side react.js in order to develop on web and mobile platforms.
